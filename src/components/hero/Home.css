@@ -32,8 +32,13 @@
     font-size: .9rem;
 }
 
-.content a  {
+/* .content a p {
     font-size: 1.9rem;
+} */
+
+.tel {
+    color: #fff;
+    font-size: 1.9rem;   
 }
 
 .content p:nth-child(3) {
