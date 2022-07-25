@@ -32,12 +32,9 @@
     font-size: .9rem;
 }
 
-/* .content a p {
-    font-size: 1.9rem;
-} */
 
-.tel p {
-    color: red;
+.tel {
+    color: #fff;
     font-size: 1.9rem;  
     margin-top: 10px;
 }
