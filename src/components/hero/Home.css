@@ -36,9 +36,10 @@
     font-size: 1.9rem;
 } */
 
-.tel {
+.tel p {
     color: #fff;
-    font-size: 1.9rem;   
+    font-size: 1.9rem;  
+    margin-top: 10px;
 }
 
 .content p:nth-child(3) {
